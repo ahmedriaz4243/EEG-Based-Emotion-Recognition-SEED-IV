@@ -1,4 +1,4 @@
-# Project: Emotion Recognition using EEG based Data DEED IV.
+# Project: Emotion Recognition using EEG based Data SEED IV.
 
 This Python project aims to predict emotions in individuals based on EEG-based data. The project utilizes transfer **learning techniques** , including **EEGITNET**  , to build a predictive model.
 
