@@ -1,6 +1,6 @@
 # Project: Emotion Recognition using EEG based Data DEED IV.
 
-This Python project aims to predict emotions in individuals based on EEG-based data. The project utilizes transfer learning techniques, including **EEGITNET**  , to build a predictive model.
+This Python project aims to predict emotions in individuals based on EEG-based data. The project utilizes transfer **learning techniques** , including **EEGITNET**  , to build a predictive model.
 
 ### Getting Started
 These instructions will guide you on how to set up the project on your local machine for development and testing purposes.
